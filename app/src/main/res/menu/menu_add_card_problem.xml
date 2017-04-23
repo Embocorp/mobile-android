@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_question"
+        android:title="Question"
+        />
+    <item
+        android:id="@+id/action_independent"
+        android:title="Independent Variable"
+        />
+    <item
+        android:id="@+id/action_dependent"
+        android:title="Dependent Variable"
+        />
+</menu>

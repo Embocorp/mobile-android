@@ -1,0 +1,22 @@
+Problem
+{
+Experimental Problem,The problem that you experiment is trying to solve and / or find the answer too.
+Independent Variable,The independent variable is the factor that is changed by the experimentor during the experiment.
+Dependent Variable,The dependent variable is the factor that changes because of the independent variable.<br><br>The relationship between the independent and dependent variables is what you are testing for in your experiment.
+}
+Hypothesis
+{
+Variable Relationship,What is the basic relationship between the independent and dependent variables?  Are they related to one and other?
+Quantitative Relationship,What is the mathematical relationship between the two variables? <br><br><b>Correlations: </b> When the relationship can be modelled by a straight line <br><br><b>Regressions: </b> When the relationship can be modelled by a more complex function<br><br><a href = "http://sphweb.bumc.bu.edu/otlt/MPH-Modules/BS/BS704_Multivariable/BS704_Multivariable5.html">Learn about it here</a>
+Qualitative Causality,What are some qualitative (something that cannot be measured in numbers) relationships between the two variables?
+}
+Materials
+{
+Item,What materials did you use for your experiment?  Be sure to describe them exactly as well as for what you used it for in your investigation.
+}
+Experiment
+{
+Trials,These are the number of times you will repeat your experiment.  As a good rule of thumb, you should have at least three trials.
+Procedure,These are the steps you will follow when performing your experiment, like a laundry list of things you need to do.
+Measurement,These are the records you will keep of the changes in your variables.
+}

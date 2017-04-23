@@ -1,0 +1,30 @@
+Barometric Pressure:BMP180:atmospheres,atm;kilopascals,kPa;inches of mercury,inHg;Torr,torr
+Altitude:BMP180:feet,ft;miles,mi;meters,m;kilometers,km
+Mass:Load Sensor:kilograms,kg;grams,g
+Weight:Load Sensor:Newtons,N;pounds,lb;ounces,oz
+IR Spectroscopy:SI1145:wave numbers,cm<sup><small>-1</small></sup>
+UV Spectroscopy:SI1145:wave numbers,cm<sup><small>-1</small></sup>
+UV Index:SI1145:Index,UV
+Humidity:DHT22:percent,%
+Ambient Temperature:DHT22:Kelvin,K;Celsius,°C;Farenheit,°F
+Conductivity:Probe:Siemanns,S
+Voltage:Probe:volts,V;millivolts,mV
+Current:Probe:amperes,A;milliamperes,mA
+Resistance:Probe:ohms,Ω
+Luminosity:SI1145:Candela,cd
+Reflectance:SI1145:percent,%
+Latitude:Smart Phone:degrees,°
+Longitude:Smart Phone:degrees,°
+Orientation:Smart Phone:degrees,°
+Acceleration:Smart Phone:meters per second per second,m/s<sup><small>2</small></sup>;feet per second square,ft/s<sup><small>2</small></sup>
+Sound Intensity:Smart Phone:decibels,dB
+Linear Distance:Probe:centimeters,cm;millimeters,mm;meters,m;inches,in;feet,ft
+Cubic Volume:Probe:cubic meters,m<sup><small>3</small></sup>;cubic centimeters,cm<sup><small>3</small></sup>;cubic millimieters,mm<sup><small>3</small></sup>;cubic feet,ft<sup><small>3</small></sup>;cubic inches,in<sup><small>3</small></sup>
+Surface Area:Probe:square meters,m<sup><small>2</small></sup>;square centimeters,cm<sup><small>2</small></sup>;square millimieters,mm<sup><small>2</small></sup>;square feet,ft<sup><small>2</small></sup>;square inches,in<sup><small>2</small></sup>
+Density:Probe/Load Cell:grams per cubic meter,g/m<sup><small>3</small></sup>;pounds per cubic foot,lb/ft<sup><small>3</small></sup>
+Salinity:Probe:parts per thousand,ppt;Practical Salinity Unit,PSU;grams per cubic meter,g/m<sup><small>3</small></sup>
+Fluid Temperature:Probe:Kelvin,K;Celsius,°C;Farenheit,°F
+Color:Smart Phone:Colors,Colors
+Absoption:SI1145:absorbance units,AU
+Moisture:Probe:parts per thousand,ppt
+Distance:SI1145:meters,m;feet,ft;centimeters,cm;
